@@ -1,10 +1,13 @@
 # ImageCrop
-crop png texture file with size 4096 x 2048 to 2 textures 2048 x 2048 and add _1001, _1002 for new file names. 
+
+crop png texture file with size **4096 x 2048** to 2 textures **2048 x 2048** and add **_1001**, **_1002** for new file names. 
 required for import to Unrel Engine aka Virtual Texture 
 
 ## usage example
+
 ```ImageCrop.exe file_name.png```
-crete 2 fileы file_name_1001.png & file_name_1002.png for import to Unreal Engine
+
+create 2 files **file_name_1001.png** & **file_name_1002.png** for import to Unreal Engine
 
 ## add requirements
 ```
