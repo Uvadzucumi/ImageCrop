@@ -1,4 +1,4 @@
-# TextureCrop
+# ImageCrop
 crop png texture file with size 4096 x 2048 to 2 textures 2048 x 2048 and add _1001, _1002 for new file names. 
 required for import to Unrel Engine aka Virtual Texture 
 
