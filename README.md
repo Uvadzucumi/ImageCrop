@@ -1,7 +1,6 @@
 # ImageCrop
 
-crop png texture file with size **4096 x 2048** to 2 textures **2048 x 2048** and add **_1001**, **_1002** for new file names. 
-required for import to Unrel Engine aka Virtual Texture 
+Reads a PNG image and if the width is several times greater than the height, it divides it into square images, appending 1001, 1002... 100N to the file names. This is necessary for importing this images by virtual textures into Unreal Engine. 
 
 ## usage example
 
